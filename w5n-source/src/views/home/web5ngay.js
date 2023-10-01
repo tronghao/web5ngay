@@ -2,7 +2,7 @@ export const web5ngay = [
   {
     image:
       "https://vinmec-prod.s3.amazonaws.com/images/20211028_030353_446874_nuoi-duong-hi-vong.max-1800x1800.jpg",
-    name: "TKCX #14 Những ngày đen tối nhất cuộc đời tôi",
+    name: "TKCX #13 Những ngày đen tối nhất cuộc đời tôi",
     content: `1. Bạn Siêng năng, chăm chỉ, cố gắng ⇒ sẽ nhận lại được cuộc sống như mình muốn; dĩ nhiên nó không đến nhanh
     2. Đừng bỏ hy vọng của mình`,
     core: 9,

@@ -48,6 +48,9 @@
             <div class="text-center mt-2 font-bold cursor-pointer text-[red]">
               Core: {{ item.core }}
             </div>
+            <div class="text-right text-[2rem]">
+              <el-icon><Star class="hover:text-[blue] cursor-pointer" /></el-icon>
+            </div>
             <div
               :class="`${
                 widthContent == 1
@@ -82,6 +85,8 @@ import { web5ngay } from "./web5ngay";
 import { lesson } from "./lesson";
 import { happiness } from "./happiness";
 import { think } from "./think";
+import { self } from "./self";
+import { problem } from "./problem";
 
 export default {
   setup() {
@@ -153,6 +158,16 @@ export default {
         {
           group: "Suy ngẫm",
           components: think,
+          show: true,
+        },
+        {
+          group: "Hiểu mình",
+          components: self,
+          show: true,
+        },
+        {
+          group: "Vấn đề",
+          components: problem,
           show: true,
         },
       ],

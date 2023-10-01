@@ -127,6 +127,42 @@ export const lesson = [
     core: 10,
   },
   {
+    image: "https://onlinejobs.vn/wp-content/uploads/2020/10/vung-thoai-mai.jpg",
+    name: "TSBV 12/09/2023 - Vùng thoải mái, nghịch cảnh",
+    content: `- Khi biết rồi thì mình không hỏi nữa, mình chỉ muốn nói thôi.
+    - Vùng thoải mái - cố gắng cho đến một mức chúng ta thoải mái, chúng ta không cố gắng nữa. (không phải)
+    - Nghịch cảnh chỉ hữu dụng với người có ý nếu, còn người không có ý chí thì chỉ đưa họ đến nước đường cùng.
+    - Ngày vui quyết định ngày buồn.
+    - Mệt lắm rồi vẫn phải gáng thêm một tí nữa.
+    - Nếu mình chọn thất bại thì vui mừng đi, mình chọn mà. Nó là nhân quả không có cái gì gọi là tự nhiên đâu.`,
+    core: 0,
+  },
+  {
+    image: "https://images.careerbuilder.vn/content/images/Vi-du-y-nghia-va-tinh-huong-ve-long-tu-trong-by-tuong-com.jpg",
+    name: "TSBV 25/09/2023 - Lòng tự trọng",
+    content: "Lòng tự trọng",
+    core: 0,
+  },
+  {
+    image: "https://t.ex-cdn.com/phatgiao.org.vn/resize/534x280/files/news/2020/03/04/tap-noi-loi-xin-loi-134214.jpg",
+    name: "TKCX #71 Xin Lỗi",
+    content: "Xin lỗi phải chân thành.",
+    core: 0,
+  },
+  {
+    image: "",
+    name: "",
+    content: "",
+    core: 0,
+  },
+  {
+    image: "https://palada.vn/wp-content/uploads/2021/10/so-phan-la-gi.jpg",
+    name: "YT - 2 cách tạo ra số phận thành công",
+    content: `- Ngã ở đâu gấp đôi thời gian ở đó
+    - Trung thực với chính năng lực bản thân mình (cái nào k biết nói k biết, chớ đừng ào ào vô làm)`,
+    core: 10,
+  },
+  {
     image: "",
     name: "",
     content: "",

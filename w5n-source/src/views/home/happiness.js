@@ -39,6 +39,15 @@ export const happiness = [
     core: 9,
   },
   {
+    image: "https://vcdn-giadinh.vnecdn.net/2023/01/28/tai-xuong-jpeg-6475-1674921942.jpg",
+    name: "TKCX #75 Hạnh Phúc Của Con Tằm Là Nhả Tơ",
+    content: `- Con tằm nó ăn và nó nhà ra tơ, đó là nhiệm vụ và là niềm hạnh phúc của nó.
+    - Con tằm nó nhả tơ xong là nó thích, nó chẳng biết được rằng tơ của mình được mang đi đâu, làm gì, làm được những bộ đồ trăm triệu hay như thế nào thì nó không biết.
+    - Làm xong là mình sẽ cảm thấy vui nhất, không cần biết nó thành công hay thất bại.
+    - Câu chuyện video triệu view của web5ngay.`,
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",

@@ -22,6 +22,22 @@ export const think = [
     core: 9,
   },
   {
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9VlVbwRhgaphLY_FLhGcGkrWXt4M79gHDA&usqp=CAU",
+    name: "TKCX #73 Sự Vô Ơn",
+    content: `- Câu chuyện nhóm bạn nói về thờ tiền, tiền là tất cả.
+    ⇒ “nếu bây giờ mẹ mày bị lên cơn nhồi máu cơ tim, mày mang vào bệnh viện bảo bác sĩ chữa, bác sĩ không nhận chữa vì thái độ của mày, mày ngon mày dùng tiền xử lý cứu mẹ mày trong lúc nguy kịch đi”.
+    - Có những sự biết ơn dính với tiền, có những thứ không dính với tiền (như dắt bà cụ qua đường)
+    - Câu chuyện khách hàng mạt sát nhân viên phục vụ.
+    - Câu chuyện khách hàng nói những lời nói xúc phạm đội ngũ hỗ trợ của web5ngay mặc dù đã hỗ trợ họ miễn phí cả năm trời.
+    - Nhiều khi người ta cứ nghĩ người ta bỏ tiền ra là có thể mạt sát, hành hạ con người ta đủ thứ.
+    - Nhân viên họ cũng là con người họ cũng đi kiếm sống và cũng là 1 phần giúp bạn có được những dịch vụ hay tiện ích để bạn được vui vẻ thoải mái hơn.
+    - Nhân viên công ty họ cũng là người góp phần cho công ty phát triển, cho hoạt động liên tục được diễn ra.
+    - Đáng ra chúng ta phải biết ơn họ, cám ơn họ mới đúng.
+    - Đó là 1 trong những cách sống ở đời tôi nghĩ ai cũng nên sử dụng để cuộc sống luôn được vui.
+    - Hãy xem lại mình 1 chút nếu mình có đang cư xử với nhiều người có vô ơn như vậy thì hãy thay đổi đi bạn nhé.`,
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",
