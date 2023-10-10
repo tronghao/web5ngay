@@ -38,6 +38,14 @@ export const think = [
     core: 0,
   },
   {
+    image: "https://blog.viecngay.vn/wp-content/uploads/2017/11/thieu-thon-tinh-cam-vcn-thumb.jpeg",
+    name: "TKCX #30 Cái hay của sự thiếu thốn",
+    content: `- Chuyện không còn tiền của web5ngay, ăn cơm trắng muối mè.
+    - Câu chuyện người kinh doanh trò chuyện qua điện thoại tốn tiền ⇒ giải pháp add zalo
+    - Đi du lịch - hội house serving, ở nhà của người địa phương.`,
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",

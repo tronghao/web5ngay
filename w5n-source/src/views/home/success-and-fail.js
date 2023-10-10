@@ -18,6 +18,28 @@ export const successAndFail = [
     core: 0,
   },
   {
+    image: "https://cafefcdn.com/zoom/700_438/2017/104582255-biking-clouds-1910x1000-1500042870871.jpg",
+    name: "TKCX #223 Vì sao ít người thành công?(biết để không như họ)",
+    content: `- Vì họ làm những bài kiểm tra không có hết.
+    - Câu chuyện làm travel vloger.
+    - Thành công với mỗi người có đề bài khác nhau.
+    - Hãy nhìn vào đề bài người khác đã thành công.
+    - Nếu bạn là viên kim cương ⇒ người ta giành nhau lụm.
+    - Giải sai thì giải lại.`,
+    core: 0,
+  },
+  {
+    image: "https://www.baobaclieu.vn/uploads/image/2020/12/11/6.jpg",
+    name: "TKCX #256 - Bí mật chiến thắng: cố gắng chưa chắc thành công",
+    content: `- Ví dụ: bạn bơi từ bờ sông bên này qua bờ sông bên kia, mà bạn k biết bơi. Vậy cố gắng là sao? quẹt quẹt cái tay, đạp đạp cái chân hả?
+    - Ví dụ lái xe tải, k biết lái mà tui sẽ cố gắng, cố gắng là sao?
+    - Trước sự cố gắng nên có phải biết cách chơi, thậm chí biết cách chơi giỏi.
+    - Trò chơi cuộc sống trả giá bằng thanh xuân, thời gian, tiền bạc, sức khoẻ.
+    - Câu chuyện kinh doanh, nấu ngon nhưng k có kỷ năng bán hàng.
+    - Câu chuyện gia đình chỉ còn cái nghĩa thôi k còn tình cảm. Chỉ kiếm tiền nuôi mà những điều khác bỏ bê.`,
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",

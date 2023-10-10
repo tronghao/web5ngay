@@ -18,10 +18,13 @@
           <div @click="selectAll(false)" class="flex items-center gap-2 cursor-pointer text-[chocolate]">
             <el-icon><CircleCloseFilled /></el-icon>  all
           </div>
+          <div>Total: {{ totalComponent }}</div>
         </div>
         <div class="flex flex-wrap gap-x-10 gap-y-0">
           <div v-for="(item, index) in modules" :key="index">
-            <el-checkbox class="mr-5" v-model="item.show" :label="item.group" size="large"/>
+            <div class="flex items-center gap-3">
+              <el-checkbox class="mr-5" v-model="item.show" :label="item.group" size="large"/> <span class="text-red-500 font-bold">{{ item.components.length }}</span>
+            </div>
           </div>
         </div>
       </div>
@@ -199,6 +202,14 @@ export default {
       return modules;
     });
 
+    const totalComponent = computed(() => {
+      let total = 0;
+      state.modules.forEach((item) => {
+        total += item.components.length;
+      });
+      return total;
+    });
+
     /**
      * selectAll select all
      * @author HaoDT
@@ -214,6 +225,7 @@ export default {
       ...toRefs(state),
       moduleList,
       selectAll,
+      totalComponent,
     };
   },
 };

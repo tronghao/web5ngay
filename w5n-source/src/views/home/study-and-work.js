@@ -144,6 +144,39 @@ export const studyAndWork = [
     core: 0,
   },
   {
+    image: "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/benh-dau-dau_a3693ffa_543c_4a7b_bc37_65172c8216b5.jpg",
+    name: "TKCX #269: Cơn đau đầu hạnh phúc (ai cũng thèm trải qua)",
+    content: `- Dồn hết tâm sức cho cơn đau đầu hạnh phúc cho thành công thì bạn có nguồn hạnh phúc chất lượng.
+    - Người nghèo mà kinh doanh thì đừng bao giờ giảm giá.
+    - Phải học đàng hoàng, học mọi điều cơ bản.
+    - Trả nghề nghiệp nào đó về đúng thời gian của nó.`,
+    core: 0,
+  },
+  {
+    image: "https://bossluxurywatch.vn/uploads/anh-dong-ho-dang-bao/5004/muoi-nha-san-xuat-dong-ho-doc-lap-gop-phan-tao-nen-lich-su-che-tac-dong-ho-thuy-si-ban-nen-biet/wv-a7f99f40-b8e4-453f-b477-e3f2f39f5021.jpg",
+    name: "TKCX #270: Chỉnh Lại Đồng Hồ Sự Nghiệp",
+    content: `- Đồng hồ sự nghiệp của nghề kế toán. 2 - 4 năm chớ k phải 3 tuần.
+    - Tối thiểu cần bao lâu?
+    - Làm ơn tuân theo những quy luật cuộc đời, ít nhất là thời gian.`,
+    core: 0,
+  },
+  {
+    image: "https://hoctot.hocmai.vn/wp-content/uploads/2020/10/bai-tap-tieng-anh-lop-7-co-dap-an1.jpg",
+    name: "TKCX #296: Học đâu giỏi đó trong thời gian ngắn",
+    content: `- Học chỉnh sửa hình. Cái gì chỉnh sửa hình cũng học nữa hả?
+    - Động lực đằng sau việc học là gì quyết định bạn học nhanh, lý do đằng sau càng mạnh thì học càng giỏi càng nhanh.
+    - Nỗi đau cũng là một động lực, mỗi người có những lý do khác nhau để học.
+    - Ngay từ đầu đừng đưa ra những lý do học hời hợt.`,
+    core: 0,
+  },
+  {
+    image: "https://nadestore.vn/wp-content/uploads/2022/12/ben-bi.webp",
+    name: "TSBV 04/10/2023 - siêu năng lực bền bỉ",
+    content: `- Siêu năng lực mạnh hơn trí thông mình đó là sự bền bì.
+    - 2 đứa trẻ đứng cạnh nhau, bạn cho 1 đứa và không cho đứa còn lại, thì nó buồn rồi (mặc dù nó rất giàu có đủ thứ kẹo)`,
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",
