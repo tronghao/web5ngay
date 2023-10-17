@@ -70,6 +70,12 @@ export const love = [
     core: 0,
   },
   {
+    image: "https://images2.thanhnien.vn/Uploaded/thanhnam/2018_01_19/shutterstockmoi_UABF.jpg?width=500",
+    name: "TSBV 16/08/2023 - Tình yêu phải có chiều sâu.",
+    content: "Tình yêu phải có chiều sâu.",
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",

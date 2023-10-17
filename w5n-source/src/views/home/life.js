@@ -21,6 +21,15 @@ export const life = [
     core: 8,
   },
   {
+    image: "https://cdn.tgdd.vn/Files/2022/08/22/1458431/nhung-cau-noi-hay-ve-su-co-gang-vuon-len-no-luc-het-minh-202208221641355885.jpeg",
+    name: "TSBV 10/10/2023 - Chúng ta cố gắng để sống ý nghĩa",
+    content: `- Mọi lực sĩ cũng từ đứa trẻ sơ sinh.
+    - Từ bây giờ tới chết mình sống sao? làm được gì?
+    - Chúng ta cố gắng để sống ý nghĩa.
+    - Thành công rất là nhàm chán là lúc mình lủi thủi, khô khan là những lúc rất tập trung và suy nghĩ.`,
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",

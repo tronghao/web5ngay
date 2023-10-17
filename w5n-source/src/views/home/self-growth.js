@@ -138,6 +138,22 @@ export const selfGrowth = [
     core: 0,
   },
   {
+    image: "https://tuyengiao.vn/Uploads/2021/10/12/25/phuong-phap-la-gi-e1581404984692.png",
+    name: "TSBV 14/08/2023 - Vấn đề không phải phương pháp mà là mình kìa",
+    content: `- Quên đi phương pháp hiệu quả, phương pháp bỏ game, thủ dâm, mình phải cam kết kìa. Vấn đề không phải phương pháp mà là mình kìa.
+    - Mình không thể loại bỏ trong vòng 1,2 tuần mà là 1 năm, cần phải có thời gian.
+    - Giai đoạn bản lề: rất khó, thấy nó chán vô cùng, nhưng mà vượt qua nó thì nó mới dễ được.`,
+    core: 0,
+  },
+  {
+    image: "https://cafebiz.cafebizcdn.vn/2017/maxresdefault2-1494850099005.jpg",
+    name: "TSBV 01/09/2023 - Cách để tui và người ta tin bạn: Hôm nay bạn làm gì? chứng minh đi.",
+    content: `- Cuộc đời nói chuyện bằng kết quả.
+    - Nhiều khi người ta chỉ không tin mà mình nghĩ người ta coi thường mình, sống vậy nó mệt lắm, nghĩ đơn giản lại thôi.
+    - Cách để tui và người ta tin bạn: Hôm nay bạn làm gì? chứng minh đi.`,
+    core: 0,
+  },
+  {
     image: "",
     name: "",
     content: "",
