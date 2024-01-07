@@ -90,6 +90,7 @@ import { happiness } from "./happiness";
 import { think } from "./think";
 import { self } from "./self";
 import { problem } from "./problem";
+import { communicate } from "./communicate";
 
 export default {
   setup() {
@@ -171,6 +172,11 @@ export default {
         {
           group: "Vấn đề",
           components: problem,
+          show: true,
+        },
+        {
+          group: "Giao tiếp",
+          components: communicate,
           show: true,
         },
       ],
